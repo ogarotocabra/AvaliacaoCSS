@@ -109,3 +109,14 @@ height: 360px!important;
 .listacor{
     color: black;
 }
+video{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:60%
+}
+audio{
+    position:fixed;
+    margin-right:auto;
+    z-index:99;
+}
