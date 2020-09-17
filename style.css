@@ -1,0 +1,35 @@
+body{
+    border-style:solid;
+    margin:100px;
+}
+.direita{
+    text-align:right;
+}
+.esquerda{
+    text-align:left;
+}
+p{
+    font-size:20px;
+}
+h3{
+    font-size:25px;
+}
+h2{
+    font-size:30px;
+}
+h1{
+    font-size:50px;
+}
+.imgt{
+    width: 100%;
+}
+.pt{
+    width: 70%;
+}
+.lista{
+    font-size:20px;
+
+}
+.introducao{
+    width: 87%;
+}
