@@ -15,18 +15,16 @@ body{
 .imagemfundo{
     margin-top:;
     z-index: -1;
-    width:342px;
 }
 
 
 
 .fundomenu{
-    background-color: red;
     position:absolute;
     margin-left:-32px;
     padding:0;
-    margin-top:-3%;
-    width:1139px;
+    margin-top:-1%;
+    width:86.3%;
     height:12%;
     background: linear-gradient( #2e2e2e, #878686);
 }
@@ -106,10 +104,9 @@ height: 360px!important;
 }
 .lista{
     font-size:20px;
-    width:10%;
+    width:15%;
 
 }
-.introducao{
-    
-    margin-left: 10%;
+.listacor{
+    color: black;
 }
