@@ -20,25 +20,20 @@ body{
 
 .fundomenu{
     position:absolute;
-    margin-left:-2%;
+    margin-left:-2.5%;
     padding:0;
-<<<<<<< HEAD
-    margin-top:-3%;
-    width:84.4%;
-=======
-    margin-top:-1%;
-    width:88.3%;
->>>>>>> 3c71efee6fad2182252b9c2501426ded2cf7e489
+    margin-top:-2%;
+    width:89.2%;
     height:12%;
     background: linear-gradient( #2e2e2e, #878686);
 }
 
 .menu{
     font-size:30px;
-    margin-top: 1%;
     margin-left:3%;
     font-family: 'Roboto', sans-serif;
     color:white;
+    margin-top:1%;
 }
 
 
